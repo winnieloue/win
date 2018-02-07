@@ -1,0 +1,10 @@
+*.o
+
+# test result files
+*.log
+*.trs
+
+#test binaries
+sip
+
+base64

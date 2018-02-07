@@ -1,0 +1,7 @@
+*.o
+
+# test result files
+*.log
+*.trs
+
+.dirstamp
